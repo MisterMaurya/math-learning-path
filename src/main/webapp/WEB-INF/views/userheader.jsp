@@ -6,8 +6,8 @@
 				<span class="icon-bar"></span> <span class="icon-bar"></span> <span
 					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="/mathlearningpath">Math<b
-				style="font-size: 35px;">h</b>ub.com
+			<a class="navbar-brand" href="/mathlearningpath">Math <b
+					style="font-size: 35px;">L</b>earningPath.com
 			</a>
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">

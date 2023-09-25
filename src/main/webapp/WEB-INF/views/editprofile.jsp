@@ -13,8 +13,7 @@
 <link rel="stylesheet" href="<%=request.getContextPath()%>/resources/bootstrap/css/custom.css">
 <link href='https://fonts.googleapis.com/css?family=Aclonica' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Nova Slim' rel='stylesheet'>
-</head><body style="width: 100%;
-   height: auto;background-image:url('<%=request.getContextPath()%>/resources/bootstrap/css/banner.jpg')">
+</head><body>
 <%@include file="userheader.jsp"%>
 <div class="center-container">
 <div class="w3layouts_main_grid">
